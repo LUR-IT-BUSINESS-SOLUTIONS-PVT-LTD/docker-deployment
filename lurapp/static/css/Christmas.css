@@ -1,0 +1,113 @@
+body{
+    background-color: rgb(240, 243, 230);
+}
+.content{
+    font-size: 25px;
+    text-align: center;
+    color: rgb(60, 115, 159);
+}
+.images{
+    display: flex;
+    padding-left: 50px;
+    animation-name: about;
+    animation-duration: 3s;
+    animation-fill-mode: forwards;
+}
+.images1{
+    display: flex;
+    padding-left: 50px;
+    animation-name: about;
+    animation-duration: 3s;
+    animation-fill-mode: forwards;
+}
+.images2{
+    display: flex;
+    padding-left: 50px;
+    animation-name: about;
+    animation-duration: 3s;
+    animation-fill-mode: forwards;
+}
+.images3{
+    display: flex;
+    padding-left: 50px;
+    animation-name: about;
+    animation-duration: 3s;
+    animation-fill-mode: forwards;
+}
+@keyframes about {
+    from {
+        
+        opacity: 0;
+        
+    }
+
+    to {
+        
+        opacity: 1;
+   }
+}
+
+/* .img1{
+    width: 380px; 
+} */
+.img1 img{
+    height: 250px;
+    width: 300px;
+    padding: 20px;
+   
+    opacity: 0.9;
+}
+.img2 img{
+    height: 250px;
+    width: 300px;
+    padding: 20px;
+   
+    opacity: 0.9;
+}
+.img3 img{
+    height: 250px;
+    width: 300px;
+    padding: 20px;
+   
+    opacity: 0.9;
+}.img4 img{
+    height: 250px;
+    width: 300px;
+    padding: 20px;
+   
+    opacity: 0.9;
+}
+.img5 img{
+    height: 250px;
+    width: 300px;
+    padding: 20px;
+   
+    opacity: 0.9;
+}
+.img6 img{
+    height: 250px;
+    width: 300px;
+    padding: 20px;
+   
+    opacity: 0.9;
+}
+.img2 h3{
+    padding-left: 50px;
+}
+.img3 h3{
+    padding-left: 50px;
+}.img4 h3{
+    padding-left: 50px;
+}.img5 h3{
+    padding-left: 50px;
+}.img6 h3{
+    padding-left: 50px;
+}
+.img1 h3{
+    padding-left: 50px;
+}
+
+/* .image1 img:hover{
+    opacity: 1.0;
+    
+} */
